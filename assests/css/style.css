@@ -1,0 +1,32 @@
+/* start of top-menu  */
+.top-menu .navbar {
+    background-color: #21252E!important;
+    
+}
+.top-menu .navbar a{
+    color: white!important;
+    font-size: 17px;
+    font-weight: 500;
+}
+.top-menu .navbar a:hover{
+    color: #FB5F3A!important;   
+}
+
+.top-menu .navbar form button {
+    border-radius: 30px;
+    width: 110px;
+    color: #FB5F3A;
+    font-weight: 500;
+    font-size: 19px;
+    margin-top: 10px;
+}
+.top-menu .navbar-collapse{
+    margin-left: 40%;
+}
+.top-menu .navbar .active{
+    font-size: 18px;
+    font-weight: 600;  
+    border-bottom: 1px solid #FB5F3A;
+    color: #FB5F3A!important;
+}
+/* end of top-menu  */
